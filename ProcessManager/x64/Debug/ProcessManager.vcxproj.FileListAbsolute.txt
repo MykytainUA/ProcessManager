@@ -1,0 +1,3 @@
+C:\Users\nikit\OneDrive\Рабочий стол\Kursova\ProcessManager\ProcessManager\x64\Debug\ProcessManager.vcxproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Kursova\ProcessManager\ProcessManager\x64\Debug\ProcessManager.MainWindow.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Kursova\ProcessManager\ProcessManager\x64\Debug\ProcessManager.vcxproj.GenerateResource.cache
